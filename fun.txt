@@ -3,3 +3,5 @@ Ciao
 Questo file è stato aggiunto sul branch alt_branch.
 
 Ciao Paolo, questo è la mia modifica!
+
+Ok, questa modifica dovrebbe andare solo sul branch alt_branch.
